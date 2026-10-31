@@ -60,3 +60,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = f.limousin@laposte.net
+	name = frederic limousin
